@@ -78,12 +78,6 @@ All core functions (LED zones, buzzer tones, NeoPixel colours, LCD readout) were
 
 ---
 
-## 📄 Documentation
-
-- [`Intermediate_Report.docx`](./Intermediate_Report.docx) — Project scope, timeline, pseudocode, wiring schematic, test results, and supervisor approval sign-off
-
----
-
 ## 🚀 Getting Started
 
 1. Wire the circuit according to the pin assignment table above (or see the wiring diagram in the Intermediate Report).
