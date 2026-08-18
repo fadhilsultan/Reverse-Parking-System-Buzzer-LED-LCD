@@ -1,0 +1,23 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE temp files
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.swp
